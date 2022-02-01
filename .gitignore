@@ -7,3 +7,5 @@ node_modules
 # Built files
 dist/**/*
 
+# Local database
+data
